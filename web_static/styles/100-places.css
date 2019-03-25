@@ -1,0 +1,64 @@
+.places .amenities h2 {
+    font-size: 16px;
+    text-align: left;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DDDDDD;
+}
+.places .amenities {
+    width: 390px;
+    height: 200px;
+}
+.places .amenities ul {
+    width: 390px;
+    padding-inline-start: 0px
+}
+.tv {
+    background-image: url("../images/icon_tv.png");
+    width: 22px;
+    height: 20px;
+    padding-top: 4px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-indent: 32px;
+    margin-top: 25px;
+}
+.wifi {
+    background-image: url("../images/icon_wifi.png");
+    width: 22px;
+    height: 20px;
+    padding-top: 4px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-indent: 32px;
+    margin-top: 15px;
+}
+.pet {
+    background-image: url("../images/icon_pets.png");
+    width: 20px;
+    height: 20px;
+    padding-top: 4px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-indent: 32px;
+    white-space: nowrap;
+    margin-top: 15px;
+}
+.reviews h2 {
+    font-size: 16px;
+    text-align: left;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #DDDDDD;
+}
+.reviews ul {
+    width: 390px;
+    padding-left: 0px;
+}
+.reviews li h3 {
+    font-size: 14px;
+    text-align: left;
+    margin-left: 0px;
+}
+.reviews li p {
+   font-size: 12px;
+   text-align: left;
+}
